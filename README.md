@@ -1,6 +1,6 @@
 # My Learning Tracker
   
-** May 2020 **
+**May 2020**
 * Khan Academy: [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math), [Arithmetic](https://www.khanacademy.org/math/arithmetic)
 * Linux Academy: [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364)
 * Acloud Guru: [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
