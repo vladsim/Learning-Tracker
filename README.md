@@ -14,4 +14,4 @@
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
   
 ### Finished
-* MOOC: Subject (date)
+* Khan Academy: 5th Grade (02/06/2020)
