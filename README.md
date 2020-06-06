@@ -14,7 +14,7 @@
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
   
 ### Finished
-**Jun20**  
+**Year 2020**  
 * [Linux Academy](https://linuxacademy.com/): Beginner’s Guide to Containers and Orchestration (06/06/2020)
 * [Khan Academy](https://www.khanacademy.org/): Arithmetic (06/06/2020)
 * [Khan Academy](https://www.khanacademy.org/): 5th Grade (02/06/2020)
