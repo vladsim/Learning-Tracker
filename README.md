@@ -1,6 +1,6 @@
 # My Learning Tracker
   
-**Jun 2020**
+### Jun 2020
 * 20x exercise (up to 50x)
 * Babbel: [German](https://my.babbel.com)
 * Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
