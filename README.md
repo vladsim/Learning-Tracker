@@ -1,6 +1,6 @@
 # My Learning Tracker
   
-### Jun 2020
+**Jun20**  
 * 20x exercise (up to 50x)
 * Babbel: [German](https://my.babbel.com)
 * Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
@@ -14,5 +14,7 @@
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
   
 ### Finished
+**Jun20**  
+* [Linux Academy](https://linuxacademy.com/): Beginner’s Guide to Containers and Orchestration (06/06/2020)
 * [Khan Academy](https://www.khanacademy.org/): Arithmetic (06/06/2020)
 * [Khan Academy](https://www.khanacademy.org/): 5th Grade (02/06/2020)
