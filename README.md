@@ -3,7 +3,7 @@
 **Jun 2020**
 * 20x exercise (up to 50x)
 * Babbel: [German](https://my.babbel.com)
-* Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math), [Arithmetic](https://www.khanacademy.org/math/arithmetic)
+* Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
 * DataCamp: [Data Scientist with Python Track - 4 modules](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
 * Linux Academy: [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364)
 * Acloud Guru: [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
@@ -14,5 +14,5 @@
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
   
 ### Finished
-* Khan Academy: Arithmetic (06/06/2020)
-* Khan Academy: 5th Grade (02/06/2020)
+* [Khan Academy](https://www.khanacademy.org/): Arithmetic (06/06/2020)
+* [Khan Academy](https://www.khanacademy.org/): 5th Grade (02/06/2020)
