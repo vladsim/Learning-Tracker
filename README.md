@@ -1,4 +1,5 @@
 # My Learning Tracker
+*Obsessed with learning*  
   
 **Jun20**  
 * 20x exercise (up to 50x)
