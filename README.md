@@ -3,7 +3,7 @@
   
 **Jun20**  
 * 20x exercise (up to 50x)
-* Babbel: [German](https://my.babbel.com)
+* Babbel: [German](https://my.babbel.com) - Beginner I.
 * Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
 * DataCamp: [Data Scientist with Python Track - 4 modules](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
 * Linux Academy: [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364)
