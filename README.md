@@ -15,7 +15,8 @@
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
   
 ### Finished
-**Year 2020**  
+**Year 2020**
+* (18/06/2020) [DataCamp](https://learn.datacamp.com/): Introduction to Python 
 * (17/06/2020) [Linux Academy](https://linuxacademy.com/): Linux Operating System Fundamentals
 * (06/06/2020) [Linux Academy](https://linuxacademy.com/): Beginner’s Guide to Containers and Orchestration
 * (06/06/2020) [Khan Academy](https://www.khanacademy.org/): Arithmetic
