@@ -1,7 +1,7 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-**Jun20**  
+**Jul20**  
 * 20x exercise (up to 50x)
 * Babbel: [German](https://my.babbel.com) - Beginner I.
 * Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math), [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
@@ -13,6 +13,7 @@
 * YouTube: [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * EdX: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
+* AWS: [Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
   
 ### Finished
 **Year 2020**
