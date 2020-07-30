@@ -1,16 +1,14 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-**Jul20**  
+**August20**  
 * 20x exercise (up to 50x)
 * Babbel: [German](https://my.babbel.com) - Beginner I.
 * Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math), [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
 * DataCamp: [Data Scientist with Python Track - 4 modules](https://learn.datacamp.com/career-tracks/data-scientist-with-python)
-* Linux Academy: [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364), [Microsoft Azure Fundamentals - AZ-900 Exam Prep](https://linuxacademy.com/cp/modules/view/id/330), [LPI Linux Essentials Certification](https://linuxacademy.com/cp/modules/view/id/346)
-* Acloud Guru: [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard), [Introduction to Machine Learning](https://learn.acloud.guru/course/intro-machine-learning/dashboard), [AWS Certified Machine Learning - Specialty 2020](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard)
+* Linux Academy: [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364), [Microsoft Azure Fundamentals - AZ-900 Exam Prep](https://linuxacademy.com/cp/modules/view/id/330)
+* Acloud Guru: [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard), [Introduction to Machine Learning](https://learn.acloud.guru/course/intro-machine-learning/dashboard)
 * Udemy: [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/), [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
-* YouTube: [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* Coursera: [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 * AWS: [Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * (opt.) EdX: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * (opt.) Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
