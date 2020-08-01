@@ -1,7 +1,7 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-**August20**  
+**August 2020**  
 * Khan Academy: 
 - [ ][6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
 - [ ][Basic Geometry](https://www.khanacademy.org/math/basic-geo)
