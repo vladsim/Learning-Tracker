@@ -37,6 +37,9 @@
   
 ### Finished
 **Year 2020**
+- [x](05/07/2020)DataCamp [Machine Learning for Everyone](https://learn.datacamp.com/courses/machine-learning-for-everyone)
+
+
 * (05/07/2020) [DataCamp](https://learn.datacamp.com/): Machine Learning for Everyone
 * (18/06/2020) [DataCamp](https://learn.datacamp.com/): Introduction to Python 
 * (17/06/2020) [Linux Academy](https://linuxacademy.com/): Linux Operating System Fundamentals
