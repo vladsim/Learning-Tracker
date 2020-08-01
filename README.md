@@ -3,9 +3,9 @@
   
 **August 2020**  
 * Khan Academy: 
-- [ ][6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
-- [ ][Basic Geometry](https://www.khanacademy.org/math/basic-geo)
-- [ ][7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
+  - [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
+  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
+  - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
 * DataCamp: 
 - [ ][Data Visualization for Everyone](https://learn.datacamp.com/courses/data-visualization-for-everyone)
 - [ ][Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
