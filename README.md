@@ -26,11 +26,11 @@
   - [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
   - [Game Theory](https://www.coursera.org/learn/game-theory-1)
 * (e)Books
-  - [Automate the Boring Stuff with Python]
-  - [Web Scraping with Python]
-  - [Trading Evolved]
-  - [Terraform: Up and Running]
-  - [Python for Finance]
+  - Automate the Boring Stuff with Python
+  - Web Scraping with Python
+  - Trading Evolved
+  - Terraform: Up and Running
+  - Python for Finance
 * (opt.) AWS: [Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
 * (opt.) EdX: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * (opt.) Udacity: [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
