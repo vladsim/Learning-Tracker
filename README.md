@@ -37,12 +37,9 @@
   
 ### Finished
 **Year 2020**
-- [x](05/07/2020)DataCamp [Machine Learning for Everyone](https://learn.datacamp.com/courses/machine-learning-for-everyone)
-
-
-* (05/07/2020) [DataCamp](https://learn.datacamp.com/): Machine Learning for Everyone
-* (18/06/2020) [DataCamp](https://learn.datacamp.com/): Introduction to Python 
-* (17/06/2020) [Linux Academy](https://linuxacademy.com/): Linux Operating System Fundamentals
-* (06/06/2020) [Linux Academy](https://linuxacademy.com/): Beginner’s Guide to Containers and Orchestration
-* (06/06/2020) [Khan Academy](https://www.khanacademy.org/): Arithmetic
-* (02/06/2020) [Khan Academy](https://www.khanacademy.org/): 5th Grade 
+* (05/07/2020) DataCamp: [Machine Learning for Everyone](https://learn.datacamp.com/courses/machine-learning-for-everyone)
+* (18/06/2020) DataCamp: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
+* (17/06/2020) Linux Academy: [Linux Operating System Fundamentals](https://linuxacademy.com/cp/modules/view/id/286)
+* (06/06/2020) Linux Academy: [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275)
+* (06/06/2020) Khan Academy: [Arithmetic](https://www.khanacademy.org/math/arithmetic)
+* (02/06/2020) Khan Academy: [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)
