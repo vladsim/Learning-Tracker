@@ -3,9 +3,9 @@
   
 **August 2020**  
 * Khan Academy: 
-  - [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
   - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
   - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
+  - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * DataCamp: 
   - [Data Visualization for Everyone](https://learn.datacamp.com/courses/data-visualization-for-everyone)
   - [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
@@ -37,6 +37,7 @@
   
 ### Finished
 **Year 2020**
+* (10/08/2020) Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
 * (05/07/2020) DataCamp: [Machine Learning for Everyone](https://learn.datacamp.com/courses/machine-learning-for-everyone)
 * (18/06/2020) DataCamp: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 * (17/06/2020) Linux Academy: [Linux Operating System Fundamentals](https://linuxacademy.com/cp/modules/view/id/286)
