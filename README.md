@@ -12,11 +12,9 @@
   - [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
   - [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
   - [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python)
-* Linux Academy: 
-  - [AWS Certified SysOps Administrator - Associate](https://linuxacademy.com/cp/modules/view/id/364)
-  - [Microsoft Azure Fundamentals - AZ-900 Exam Prep](https://linuxacademy.com/cp/modules/view/id/330)
-* Acloud Guru: 
+* Acloud Guru / Linux Academy: 
   - [Introduction to Machine Learning](https://learn.acloud.guru/course/intro-machine-learning/dashboard)
+  - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
   - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
 * Udemy: 
   - [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
