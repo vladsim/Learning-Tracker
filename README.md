@@ -3,9 +3,9 @@
   
 **August 2020**  
 * Khan Academy: 
-  - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
-  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
   - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
+  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
+  - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
 * DataCamp: 
   - [Data Visualization for Everyone](https://learn.datacamp.com/courses/data-visualization-for-everyone)
   - [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
@@ -18,11 +18,9 @@
   - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
 * Udemy: 
   - [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-  - [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 * Coursera
   - [Machine Learning](https://www.coursera.org/learn/machine-learning)
-  - [Game Theory](https://www.coursera.org/learn/game-theory-1)
-* (opt.) ML: [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  - [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * (e)Books
   - Data Wrangling with Python
   - Data Journalism Handbook
