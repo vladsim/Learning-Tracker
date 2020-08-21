@@ -22,11 +22,11 @@
   - [Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * (e)Books
-  - Data Wrangling with Python
-  - Data Journalism Handbook
-  - Automate the Boring Stuff with Python
-  - Terraform: Up and Running
-  - Trading Evolved
+  - [Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/ref=sr_1_2)
+  - [Data Journalism Handbook](https://www.amazon.com/Data-Journalism-Handbook-Journalists-Improve/dp/1449330061/ref=sr_1_1)
+  - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?dchild=1)
+  - [Terraform: Up and Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B07XKF258P/ref=sr_1_1?dchild=1)
+  - [Trading Evolved](https://www.amazon.com/Trading-Evolved-Anyone-Killer-Strategies-ebook/dp/B07VDLX55H/ref=sr_1_1?dchild=1)
   
 ### Finished
 **Year 2020**
