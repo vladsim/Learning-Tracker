@@ -14,22 +14,21 @@
   - [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python)
 * Acloud Guru / Linux Academy: 
   - [Introduction to Machine Learning](https://learn.acloud.guru/course/intro-machine-learning/dashboard)
-  - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
   - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
+  - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
 * Udemy: 
-  - [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
   - [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+  - [Java Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 * Coursera
   - [Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Game Theory](https://www.coursera.org/learn/game-theory-1)
+* (opt.) ML: [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * (e)Books
   - Data Wrangling with Python
   - Data Journalism Handbook
   - Automate the Boring Stuff with Python
   - Terraform: Up and Running
   - Trading Evolved
-* (opt.) AWS: [Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
-* (opt.) ML: [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
   
 ### Finished
 **Year 2020**
