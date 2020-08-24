@@ -30,6 +30,7 @@
   
 ### Finished
 **Year 2020**
+* (24/08/2020) Acloud Guru: [DevOps Concepts](https://learn.acloud.guru/course/devops-concepts/dashboard)
 * (10/08/2020) Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
 * (05/07/2020) DataCamp: [Machine Learning for Everyone](https://learn.datacamp.com/courses/machine-learning-for-everyone)
 * (18/06/2020) DataCamp: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
