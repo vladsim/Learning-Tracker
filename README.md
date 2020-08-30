@@ -1,32 +1,39 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-**August 2020**  
+**September 2020**  
 * Khan Academy: 
-  - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
-  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
   - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
+  - [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
+  - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * DataCamp: 
   - [Data Visualization for Everyone](https://learn.datacamp.com/courses/data-visualization-for-everyone)
   - [Introduction to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
   - [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
-  - [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
-  - [Data Types for Data Science in Python](https://learn.datacamp.com/courses/data-types-for-data-science-in-python)
 * Acloud Guru / Linux Academy: 
   - [Introduction to Machine Learning](https://learn.acloud.guru/course/intro-machine-learning/dashboard)
   - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
   - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
 * Udemy: 
   - [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-* Coursera
+  - [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* Azure Learning
+  - [AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+  - [DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
+* Babbel - GER
+* exercise - Running, 20x, Results, Yoga
+* (opt.) Coursera
   - [Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * (e)Books
-  - [Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/ref=sr_1_2)
+  - [Terraform: Up and Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B07XKF258P/ref=sr_1_1)
+  - [Web Scraping with Python](https://www.amazon.com/Web-Scraping-Python-Collecting-Modern-ebook/dp/B07BMGBYSK/ref=sr_1_1)
+  - [Data Wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Tools-Easier/dp/1491948817/ref=sr_1_1)
   - [Data Journalism Handbook](https://www.amazon.com/Data-Journalism-Handbook-Journalists-Improve/dp/1449330061/ref=sr_1_1)
-  - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?dchild=1)
-  - [Terraform: Up and Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B07XKF258P/ref=sr_1_1?dchild=1)
-  - [Trading Evolved](https://www.amazon.com/Trading-Evolved-Anyone-Killer-Strategies-ebook/dp/B07VDLX55H/ref=sr_1_1?dchild=1)
+  - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1)
+  - [Trading Evolved](https://www.amazon.com/Trading-Evolved-Anyone-Killer-Strategies-ebook/dp/B07VDLX55H/ref=sr_1_1)
+* [Kaggle Courses](https://www.kaggle.com/learn/overview)
+* (opt.) EdX, Udacity
   
 ### Finished
 **Year 2020**
