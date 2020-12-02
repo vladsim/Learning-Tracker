@@ -1,11 +1,12 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-**November 2020**  
+**December 2020**  
 * Khan Academy: 
   - [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
 * DataCamp:  
   - [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
+  - [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
 * Acloud Guru:
   - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
   - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
@@ -39,5 +40,5 @@
 * EdX
 * Babbel
 * (e)books
-* Acloud Guru
+* Acloud Guru / Linux Academy
 * Kaggle
