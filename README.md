@@ -32,13 +32,18 @@
 * (02/06/2020) Khan Academy: [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)
 
 ### Sources
+* Acloud Guru / Linux Academy
+* YouTube (different channels)
 * Khan Academy
-* Coursera
 * DataCamp
-* Udemy
 * Udacity
+* Udemy
+* Coursera
 * EdX
 * Babbel
 * (e)books
-* Acloud Guru / Linux Academy
 * Kaggle
+* Project Euler
+* HackerRank
+* (opt.) CodeWars
+* (opt.) Brilliant
