@@ -18,10 +18,10 @@
   - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1)
   
 ### Finished
-**Year 2021**
-*  
+#### Year 2021
+*   
   
-**Year 2020**
+#### Year 2020
 * (16/11/2020) DataCamp: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 * (24/08/2020) Acloud Guru: [DevOps Concepts](https://learn.acloud.guru/course/devops-concepts/dashboard)
 * (10/08/2020) Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
