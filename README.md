@@ -9,10 +9,13 @@
 * Acloud Guru:  
   - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
   - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
-* Coursera:  
-  - [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Udemy:
+  - [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/)
 * EdX  
   - [Building Modern Python Applications on AWS](https://www.edx.org/course/building-modern-python-applications-on-aws)
+* Coursera:
+  - (opt.) [Game Theory](https://www.coursera.org/learn/game-theory-1)
+  - (opt.) [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * (e)Books  
   - [Terraform: Up and Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B07XKF258P/ref=sr_1_1)
   - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1)
