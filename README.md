@@ -25,6 +25,7 @@
 *   
   
 #### Year 2020
+* (2020/12/31) Khan Academy: [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
 * (2020/11/16) DataCamp: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
 * (2020/08/24) Acloud Guru: [DevOps Concepts](https://learn.acloud.guru/course/devops-concepts/dashboard)
 * (2020/08/10) Khan Academy: [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)
@@ -48,5 +49,6 @@
 * Kaggle
 * Project Euler
 * HackerRank
+* (opt.) Leetcode
 * (opt.) CodeWars
 * (opt.) Brilliant
