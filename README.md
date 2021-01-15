@@ -7,7 +7,6 @@
   - [Basic geometry](https://www.khanacademy.org/math/basic-geo)
   - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * Acloud Guru:  
-  - [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
   - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
 * Udemy:
   - [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -22,7 +21,8 @@
   
 ### Finished
 #### Year 2021
-*   
+* (2021/01/15) **AWS SysOps Associate certification**
+* (2021/01/14) Acloud Guru: [AWS SysOps Administrator Associate - 2020](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
   
 #### Year 2020
 * (2020/12/31) Khan Academy: [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)
