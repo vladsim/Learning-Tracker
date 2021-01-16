@@ -7,14 +7,14 @@
   - [Basic geometry](https://www.khanacademy.org/math/basic-geo)
   - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * Acloud Guru:  
-  - [AZ-900 Microsoft Azure Fundamentals 2020](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
+  - [Introduction to AWS CloudFormation](https://learn.acloud.guru/course/intro-aws-cloudformation/dashboard)
+  - [AWS Certified Database - Specialty](https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/dashboard)
 * Udemy:
-  - [The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * EdX  
-  - [Building Modern Python Applications on AWS](https://www.edx.org/course/building-modern-python-applications-on-aws)
+  - None
 * Coursera:
-  - (opt.) [Game Theory](https://www.coursera.org/learn/game-theory-1)
-  - (opt.) [Machine Learning](https://www.coursera.org/learn/machine-learning)
+  - None
 * (e)Books  
   - [Terraform: Up and Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook/dp/B07XKF258P/ref=sr_1_1)
   - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1)
