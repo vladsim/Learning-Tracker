@@ -3,14 +3,15 @@
   
 **January 2021**  
 * Khan Academy:  
-  - [8th Grade](https://www.khanacademy.org/math/cc-eighth-grade-math)
   - [Basic geometry](https://www.khanacademy.org/math/basic-geo)
+  - [8th Grade](https://www.khanacademy.org/math/cc-eighth-grade-math)
   - [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * Acloud Guru:  
   - [Introduction to AWS CloudFormation](https://learn.acloud.guru/course/intro-aws-cloudformation/dashboard)
   - [AWS Certified Database - Specialty](https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/dashboard)
 * Udemy:
   - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+  - [Complete Python Bootcamp: From Zero to Hero in Python (2021)](https://www.udemy.com/course/complete-python-bootcamp/)
 * EdX  
   - None
 * Coursera:
