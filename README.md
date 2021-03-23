@@ -1,5 +1,16 @@
 # My Learning Tracker
 *Obsessed with learning*  
+
+### April 2020
+* Khan Academy: [8th Grade](https://www.khanacademy.org/)
+* Acloud Guru: [AZ-900 Microsoft Azure Fundamentals](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
+* Acloud Guru: [Introduction to AWS CloudFormation](https://learn.acloud.guru/course/intro-aws-cloudformation/dashboard)
+* Acloud Guru: [AWS Certified Big Data - Specialty](https://learn.acloud.guru/course/aws-certified-big-data-specialty/dashboard)
+* Acloud Guru: [AWS Certified Data Analytics - Specialty](https://learn.acloud.guru/course/312375cd-c136-4f1c-81dc-dbdcfff2d06b/dashboard)
+* DataCamp: [4 Python courses](https://www.datacamp.com/)
+* Udemy: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+* Coursera: [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+* EdX: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
   
 ### Finished
 #### Year 2021
@@ -18,11 +29,9 @@
 * (2020/06/02) Khan Academy: [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)
 
 ### Sources
-* Acloud Guru / Linux Academy
-* YouTube (different channels)
+* Acloud Guru
 * Khan Academy
 * DataCamp
-* Udacity
 * Udemy
 * Coursera
 * EdX
@@ -31,6 +40,8 @@
 * Kaggle
 * Project Euler
 * HackerRank
+* Udacity
+* YouTube (different channels)
 * (opt.) Leetcode
 * (opt.) CodeWars
 * (opt.) Brilliant
