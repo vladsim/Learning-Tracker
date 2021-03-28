@@ -2,13 +2,19 @@
 *Obsessed with learning*  
 
 ### April 2020
-* Khan Academy: [8th Grade](https://www.khanacademy.org/)
+* (morning) 20x exercise
+* (morning) jogging
+* Babbel (GER)
 * Acloud Guru: [AZ-900 Microsoft Azure Fundamentals](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
 * Acloud Guru: [Introduction to AWS CloudFormation](https://learn.acloud.guru/course/intro-aws-cloudformation/dashboard)
-* DataCamp: [4 Python courses](https://www.datacamp.com/)
+* Khan Academy: [8th Grade](https://www.khanacademy.org/)
 * Udemy: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 * Coursera: [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 * EdX: [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+* Udacity: [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+* (evening) Nike / Adidas exercise
+* AWS YouTube / Broadcast
+* AWS Hands-on-Labs / qWikLabs
   
 ### Finished
 #### Year 2021
@@ -25,7 +31,7 @@
 * (2020/06/06) Linux Academy: [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275)
 * (2020/06/06) Khan Academy: [Arithmetic](https://www.khanacademy.org/math/arithmetic)
 * (2020/06/02) Khan Academy: [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)
-
+  
 ### Sources
 * Acloud Guru
 * Khan Academy
