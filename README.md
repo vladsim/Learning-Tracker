@@ -10,8 +10,8 @@
 #### Year 2021
 * (2021-05-15) Acloud Guru: [Introduction to Cloud Computing](https://learn.acloud.guru/course/intro-cloud-computing/dashboard)
 * (2021-05-07) Babbel.com: [Newcomer - Course 2 (A1)](https://my.babbel.com/dashboard)
-* (2021-05-25) Acloud Guru: [Data Science Basics](https://acloud.guru/overview/data-science-basics)
 * (2021-05-25) Babbel.com: [Newcomer - Course 3 (A1)](https://my.babbel.com/dashboard)
+* (2021-05-26) Acloud Guru: [Data Science Basics](https://acloud.guru/overview/data-science-basics)
   
 ### Sources
 * Acloud Guru
