@@ -1,11 +1,13 @@
 # My Learning Tracker
 *Obsessed with learning*  
-
-### May 2021 (Plan)
-* Khan Academy: [8th Grade](https://www.khanacademy.org/)
-* Acloud Guru: [AZ-900 Microsoft Azure Fundamentals](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
-* Udemy: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
   
+### June 2021 (Plan)
+* Khan Academy: [8th Grade](https://www.khanacademy.org/)
+* Khan Academy: [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
+* Udemy: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+* DataCamp: [4 modules - Python / SQL](https://learn.datacamp.com/)
+* Acloud Guru: [AZ-900 Microsoft Azure Fundamentals](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
+    
 ### Finished
 #### Year 2021
 * (2021-05-15) Acloud Guru: [Introduction to Cloud Computing](https://learn.acloud.guru/course/intro-cloud-computing/dashboard)
