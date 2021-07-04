@@ -1,11 +1,13 @@
 # My Learning Tracker
 *Obsessed with learning*  
   
-### June 2021 (Plan)
+### July 2021 (Plan)
 * Khan Academy: [8th Grade](https://www.khanacademy.org/)
 * Khan Academy: [Basic Geometry](https://www.khanacademy.org/math/basic-geo)
-* Udemy: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
-* Acloud Guru: [AZ-900 Microsoft Azure Fundamentals](https://learn.acloud.guru/course/az-900-microsoft-azure-fundamentals/dashboard)
+* Udemy: [AWS CloudFormation Master Class v2](https://www.udemy.com/course/aws-cloudformation-master-class/)
+* Udemy: [The Git & GitHub BootCamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+* AcloudGuru: [Beginner’s Guide to Containers and Orchestration](https://learn.acloud.guru/course/f276f2aa-fb5e-4fc6-9c36-0dc674b95767/dashboard)
+* AcloudGuru: [Essential Container Concepts](https://learn.acloud.guru/course/03155237-268d-4c80-b704-af2fbe5bdcdb/dashboard)
     
 ### Finished
 #### Year 2021
@@ -32,3 +34,4 @@
 * (opt.) Leetcode
 * (opt.) CodeWars
 * (opt.) Brilliant
+* (opt.) FreeCodeCamp.org
